@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+<style>
+
+h1{
+    color: rgb(86, 86, 124);
+} 
+p{
+font-size: medium; color: rgb(81, 81, 95);
+}
+h2{
+    color: rgb(86, 86, 124);
+}
+ol{
+    font-size: medium; color: rgb(81, 81, 95);   
+}
+
+</style>
